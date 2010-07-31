@@ -1,0 +1,30 @@
+{
+  "status": "OK",
+  "results": [ {
+    "name": "Williamsburg",
+    "types": [ "locality", "political" ],
+    "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "reference": "ClRBAAAAXP...lHAPyHom2aG"
+  }, {
+    "name": "Greenpoint",
+    "vicinity": "New York",
+    "types": [ "neighborhood", "political" ],
+    "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "reference": "CkQ_AAAAhd...MF45fwr44Ek"
+  }, {
+    "name": "Peter Luger Steakhouse",
+    "vicinity": "Broadway, Brooklyn",
+    "types": [ "restaurant", "food", "establishment" ],
+    "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "reference": "ClRCAAAAt3...6Nt7k11iQdT"
+  }, {
+    "name": "Music Hall of Williamsburg",
+    "vicinity": "North 6th Street, Brooklyn",
+    "types": [ "establishment" ],
+    "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "reference": "ClRFAAAAN...6UOKCbjv7Sxy"
+  }
+  
+  ],
+  "html_attributions": [ ]
+}
